@@ -1,6 +1,5 @@
 # scaws
-@@ -0,0 +1,27 @@
-# scaws.com
+
 
 ## <h1 align="center">Hi 👋, I'm Steven Camarillo</h1>
 <h3 align="center">An aspiring Full-stack developer / cloud computing beginner from Los Angeles</h3>
