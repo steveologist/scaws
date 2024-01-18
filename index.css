@@ -19,7 +19,8 @@
             color: #e74c3c; /* Alizarin Red */
             @font-face {
                 font-family: delusionaldisplay-regular;
-                src: url(delusionaldisplay-regular.woff);
+                src: url(delusionaldisplay-regular.otf);
+
             } 
 
          }
