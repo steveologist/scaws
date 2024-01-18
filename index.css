@@ -18,7 +18,7 @@
         h1 {
             color: #e74c3c; /* Alizarin Red */
             @font-face {
-                font-family: delusionaldisplay-regular;
+                font-family: delusionaldisplayregular;
                 src: url(delusionaldisplay-regular.otf);
 
             } 
