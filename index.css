@@ -17,10 +17,10 @@
 
         h1 {
             color: #e74c3c; /* Alizarin Red */
-            @font-face {
-                font-family: 'delusionaldisplayregular';
-                src: url('delusionaldisplayregular.woff') format('woff'),
-                     url('delusionaldisplayregular.woff2') format('woff2');
+            font-face {
+                font-family: 'delusionaldisplay-regular';
+                src: url('delusionaldisplay-regular.woff') format('woff'),
+                     url('delusionaldisplay-regular.woff2') format('woff2');
 
             } 
 
