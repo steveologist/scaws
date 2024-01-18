@@ -1,4 +1,9 @@
 /* External CSS File (styles.css) */
+
+.theme {
+    color: #ffff00;
+    background-color: #4553ac;
+  }
  body {
             font-family: Arial, sans-serif;
             text-align: center;
