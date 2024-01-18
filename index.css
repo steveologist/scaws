@@ -17,7 +17,13 @@
 
         h1 {
             color: #e74c3c; /* Alizarin Red */
-        }
+            @font-face {
+                font-family: delusionaldisplay;
+                src: url(delusionaldisplay-regular.woff);
+            } 
+
+         }
+        
 
         style {
             color: #9b59b6; /* Amethyst Purple */
